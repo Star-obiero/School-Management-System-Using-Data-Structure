@@ -90,3 +90,10 @@ School_Management_System/
 ├── README.md
 ├── requirements.txt
 └── School_Management_System_Final_Report.docx
+
+---
+
+## 📄 About the Project in Detail
+
+[![Read Detailed Report](https://img.shields.io/badge/📘%20View%20Full%20Project%20Report-blue?style=for-the-badge)](https://docs.google.com/document/d/1VMICw_YiKzfSkjknxQgVLR2CKwdVgBXsvG5a7UsvxqE/edit?usp=sharing)
+
