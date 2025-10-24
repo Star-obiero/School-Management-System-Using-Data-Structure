@@ -1,0 +1,5 @@
+course_code,course_name,capacity,enrolled_students,waitlist
+CS101,Introduction to Programming,3,107|106|108,
+CS102,Data Structures,2,102,
+CS201,Database Systems,2,103,
+CS202,Operating Systems,3,105,

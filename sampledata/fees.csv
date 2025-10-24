@@ -1,0 +1,7 @@
+student_id,name,amount_paid,total_fee
+101,Alice,5000.0,10000.0
+102,Brian,4500.0,10000.0
+103,Charles,0.0,10000.0
+104,Diana,7000.0,10000.0
+105,Emily,10000.0,10000.0
+106,Faith,5000.0,10000.0
